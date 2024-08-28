@@ -1,0 +1,11 @@
+table {
+   width:100%;border-collapse: collapse; // 合并边框，使下划线更加美观
+}
+tr {
+    border-bottom: 1px solid #000;height:45px;vertical-align:bottom;  添加下划线
+}
+p {
+    font-size: 28px;
+    text-align: center;
+    #background-color: yellow;
+}

@@ -1,0 +1,9 @@
+{
+  "Prefix": "Document_Payment_",
+  "Sort": "LastModified",
+  "ShowItem": "gtDocTitle,Action,ManagerL3,ManagerL2,Manager,DeptManager,DepartUnit1,Remark,ExternalTrainingNo,Inwords,Amount,Currency,Payment,ContractNo,AccountNo,Bank,AccountName,Receipient,ProjectName,CostCenterName,ProjectNo,CostCenter,Creator,Date,No,Department",
+  "DetailPrefix": "Document_PaymentDetail_",
+  "DetailSort": "LastModified",
+  "Key": "exa@#$ekey121234",
+  "Encryption": true
+}

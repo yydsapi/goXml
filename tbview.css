@@ -1,0 +1,6 @@
+table {
+    border-collapse: collapse; // 合并边框，使下划线更加美观
+}
+tr {
+    border-bottom: 1px solid #000; // 添加下划线
+}

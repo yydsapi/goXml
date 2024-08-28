@@ -1,0 +1,6 @@
+{
+  "Prefix": "Document_Payment",
+  "Sort": "LastModified",
+  "DetailPrefix": "Document_PaymentDetail_",
+  "DetailSort": "LastModified"
+}
